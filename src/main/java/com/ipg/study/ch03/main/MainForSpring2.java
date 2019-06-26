@@ -52,6 +52,7 @@ public class MainForSpring2 {
 				continue;
 			}
 			printHelp();
+			// printHelp2()
 		}
 	}
 	
