@@ -50,6 +50,7 @@ public class MainForSpring {
 				continue;
 			}
 			printHelp();
+			printHelp();
 		}
 	}
 	
